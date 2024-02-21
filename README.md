@@ -34,3 +34,5 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 Bukti setup environment telah berhasil di  komputer.
 
 ![Screenshot](assets-report/01.png)
+
+Contoh perubahan.
